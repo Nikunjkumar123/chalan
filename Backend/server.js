@@ -12,7 +12,10 @@ const corsOptions = {
     "http://localhost:3001",
     "https://ircc-portal.com",
     "https://www.ircc-portal.com",
-    "https://admin.ircc-portal.com"
+    "https://admin.ircc-portal.com",
+    "http://ircc-portal.com",
+    "http://www.ircc-portal.com",
+    "http://admin.ircc-portal.com"
   ],
 };
 
