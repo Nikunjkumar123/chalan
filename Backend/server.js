@@ -7,11 +7,12 @@ dotenv.config();
 const app = express();
 const corsOptions = {
   origin: [
+    "http://www.ircc-portal.com",
+    "http://ircc-portal.com",
     "http://localhost:3000",
     "https://challan-frontend.vercel.app",
     "http://localhost:3001",
     "https://ircc-portal.com",
-    "https://www.ircc-portal.com",
     "https://admin.ircc-portal.com",
     "http://ircc-portal.com",
     "http://www.ircc-portal.com",
